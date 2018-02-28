@@ -1,9 +1,4 @@
-The source repository of the [AIOCJ development framework](http://www.cs.unibo.it/projects/jolie/aiocj.html).
+This is a branch dedicated to non-adaptive possibilities; the source repository of the [AIOCJ development framework](http://www.cs.unibo.it/projects/jolie/aiocj.html) can be found [here](https://github.com/thesave/aiocj).
+For choreographies that do not use the _adaptation middleware_ of the framework, here it is removed resulting in a significative improvement in execution speed (see the comparison below).
 
 AIOCJ is released under the GNU Lesser General Public License v2.1.
-
-### Improvements
-
-- [ ] Add command to Environment Service to print the list of all variables and their values;
-- [ ] When checking the applicability of a rule that introduces new roles, first check if the related role_supporter is reachable. In case it is not, report the error and skip the rule;
-- [ ] When compiling, if the check for *connectedness* returns an error, ask to the user whether to continue with the compilation or not.
