@@ -1,5 +1,0 @@
-CPU: Intel® Core™ i7-4710HQ CPU @ 2.50GHz × 8
-SO: Ubuntu 17.10 64-bit
-RAM: 8gb (tipo)
-Java version: 1.8.0_77
-Jolie version: Jolie 1.6.2 beta (sentire Giallorenzo)

@@ -10,7 +10,7 @@ The machine on which tests were run has the following specifications:
 * Java version: 1.8.0_77
 * Jolie version: Jolie 1.6.3 beta
 
-![alt text](https://github.com/Annopaolo/aiocj/benchmark/benchmark_sequential.png "Sequential execution")
-![alt text](https://github.com/Annopaolo/aiocj/benchmark/benchmark_parallel.png "Parallel execution")
+![alt text](https://github.com/Annopaolo/aiocj/blob/master/benchmark/benchmark_sequential.png "Sequential execution")
+![alt text](https://github.com/Annopaolo/aiocj/blob/master/benchmark/benchmark_parallel.png "Parallel execution")
 
 AIOCJ is released under the GNU Lesser General Public License v2.1.
