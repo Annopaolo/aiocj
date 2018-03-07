@@ -1,0 +1,139 @@
+include start, end, close, getN from "socket://localhost:8000"
+include getNthLetter, getNext, setNthLetter from "socket://localhost:8001"
+
+preamble{
+	starter: a
+	location@a: "localhost:15001"
+	location@b: "localhost:15002"
+}
+
+aioc {
+	n@a = getN();
+		if( n <= 100 )@a{
+		_r@a = start( n );{
+		if( n > 0 )@a{
+		   l@a = getNthLetter( l1 ) 
+		  |  l@b = getNthLetter( l2 )
+		  |  l@a = getNthLetter( l3 )
+		  |  l@b = getNthLetter( l4 )
+		  |  l@a = getNthLetter( l5 )
+		  |  l@b = getNthLetter( l6 )
+		  |  l@a = getNthLetter( l7 )
+		  |  l@b = getNthLetter( l8 )
+		  |  l@a = getNthLetter( l9 )
+		  |  l@b = getNthLetter( l10 )
+		} |
+		if( n > 10 )@a{
+		  		   l@a = getNthLetter( l11 ) 
+		  |  l@b = getNthLetter( l12 )
+		  |  l@a = getNthLetter( l13 )
+		  |  l@b = getNthLetter( l14 )
+		  |  l@a = getNthLetter( l15 )
+		  |  l@b = getNthLetter( l16 )
+		  |  l@a = getNthLetter( l17 )
+		  |  l@b = getNthLetter( l18 )
+		  |  l@a = getNthLetter( l19 )
+		  |  l@b = getNthLetter( l20 )
+		} |
+		if( n > 20 )@a{
+		   l@a = getNthLetter( l21 ) 
+		  |  l@b = getNthLetter( l22 )
+		  |  l@a = getNthLetter( l23 )
+		  |  l@b = getNthLetter( l24 )
+		  |  l@a = getNthLetter( l25 )
+		  |  l@b = getNthLetter( l26 )
+		  |  l@a = getNthLetter( l27 )
+		  |  l@b = getNthLetter( l28 )
+		  |  l@a = getNthLetter( l29 )
+		  |  l@b = getNthLetter( l30 )
+		} |
+		if( n > 30 )@a{
+		   l@a = getNthLetter( l31 ) 
+		  |  l@b = getNthLetter( l32 )
+		  |  l@a = getNthLetter( l33 )
+		  |  l@b = getNthLetter( l34 )
+		  |  l@a = getNthLetter( l35 )
+		  |  l@b = getNthLetter( l36 )
+		  |  l@a = getNthLetter( l37 )
+		  |  l@b = getNthLetter( l38 )
+		  |  l@a = getNthLetter( l39 )
+		  |  l@b = getNthLetter( l40 )
+		} |
+		if( n > 40 )@a{
+		   l@a = getNthLetter( l41 ) 
+		  |  l@b = getNthLetter( l42 )
+		  |  l@a = getNthLetter( l43 )
+		  |  l@b = getNthLetter( l44 )
+		  |  l@a = getNthLetter( l45 )
+		  |  l@b = getNthLetter( l46 )
+		  |  l@a = getNthLetter( l47 )
+		  |  l@b = getNthLetter( l48 )
+		  |  l@a = getNthLetter( l49 )
+		  |  l@b = getNthLetter( l50 )
+		} |
+		if( n > 50 )@a{
+		   l@a = getNthLetter( l51 ) 
+		  |  l@b = getNthLetter( l52 )
+		  |  l@a = getNthLetter( l53 )
+		  |  l@b = getNthLetter( l54 )
+		  |  l@a = getNthLetter( l55 )
+		  |  l@b = getNthLetter( l56 )
+		  |  l@a = getNthLetter( l57 )
+		  |  l@b = getNthLetter( l58 )
+		  |  l@a = getNthLetter( l59 )
+		  |  l@b = getNthLetter( l60 )
+		} |
+		if( n > 60 )@a{
+	   l@a = getNthLetter( l61 ) 
+		  |  l@b = getNthLetter( l62 )
+		  |  l@a = getNthLetter( l63 )
+		  |  l@b = getNthLetter( l64 )
+		  |  l@a = getNthLetter( l65 )
+		  |  l@b = getNthLetter( l66 )
+		  |  l@a = getNthLetter( l67 )
+		  |  l@b = getNthLetter( l68 )
+		  |  l@a = getNthLetter( l69 )
+		  |  l@b = getNthLetter( l70 )
+		} |
+		if( n > 70 )@a{
+			   l@a = getNthLetter( l71 ) 
+		  |  l@b = getNthLetter( l72 )
+		  |  l@a = getNthLetter( l73 )
+		  |  l@b = getNthLetter( l74 )
+		  |  l@a = getNthLetter( l75 )
+		  |  l@b = getNthLetter( l76 )
+		  |  l@a = getNthLetter( l77 )
+		  |  l@b = getNthLetter( l78 )
+		  |  l@a = getNthLetter( l79 )
+		  |  l@b = getNthLetter( l80 )
+		} |
+		if( n > 80 )@a{
+		   l@a = getNthLetter( l81 ) 
+		  |  l@b = getNthLetter( l82 )
+		  |  l@a = getNthLetter( l83 )
+		  |  l@b = getNthLetter( l84 )
+		  |  l@a = getNthLetter( l85 )
+		  |  l@b = getNthLetter( l86 )
+		  |  l@a = getNthLetter( l87 )
+		  |  l@b = getNthLetter( l88 )
+		  |  l@a = getNthLetter( l89 )
+		  |  l@b = getNthLetter( l90 )
+		} |
+		if( n > 90 )@a{
+		   l@a = getNthLetter( l91 ) 
+		  |  l@b = getNthLetter( l92 )
+		  |  l@a = getNthLetter( l93 )
+		  |  l@b = getNthLetter( l94 )
+		  |  l@a = getNthLetter( l95 )
+		  |  l@b = getNthLetter( l96 )
+		  |  l@a = getNthLetter( l97 )
+		  |  l@b = getNthLetter( l98 )
+		  |  l@a = getNthLetter( l99 )
+		  |  l@b = getNthLetter( l100 )
+		}
+		}; 
+		_r@a = end();
+		p: a() -> b();
+		_r@b = close( path )
+	}
+}

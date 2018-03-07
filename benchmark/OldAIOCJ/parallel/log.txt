@@ -1,0 +1,100 @@
+Execution Time for n = 10: 177 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 10: 161 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 10: 215 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 10: 177 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 10: 218 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 20: 226 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 20: 213 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 20: 214 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 20: 290 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 20: 209 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 30: 369 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 30: 244 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 30: 297 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 30: 252 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 30: 292 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 40: 431 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 40: 423 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 40: 443 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 40: 326 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 40: 331 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 50: 363 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 50: 354 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 50: 345 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 50: 491 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 50: 395 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 60: 490 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 60: 472 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 60: 459 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 60: 511 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 60: 367 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 70: 659 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 70: 496 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 70: 645 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 70: 540 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 70: 428 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 80: 561 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 80: 577 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 80: 536 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 80: 660 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 80: 622 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 90: 717 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 90: 677 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 90: 743 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 90: 804 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 90: 656 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 100: 651 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 100: 753 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 100: 748 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 100: 714 ms 
+--------- Test Session Ended ---------
+Execution Time for n = 100: 642 ms 
+--------- Test Session Ended ---------
