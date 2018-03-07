@@ -4,7 +4,7 @@ For choreographies that do not use the _adaptation middleware_ of the framework,
 Benchmark
 ---
 
-The speed of execution was measured by running a choreography composed of 10*_n_ messages, 1 ≤ _n_ ≤ 10, five times for each _n_. Graphs below show the mean of the results for each choreography. Test were run both in the case of sequential and parallel execution. The source code used for benchmarking can be found at the [benchmark](https://github.com/Annopaolo/aiocj/benchmark) directory.
+The speed of execution was measured by running a choreography composed of 10*_n_ messages, 1 ≤ _n_ ≤ 10, five times for each _n_. Graphs below show the mean of the results for each choreography. Test were run both in the case of sequential and parallel execution. The source code used for benchmarking can be found at the [benchmark](https://github.com/Annopaolo/aiocj/tree/master/benchmark "aiocj/benchmark") directory.
 The machine on which tests were run has the following specifications:
 * CPU: Intel® Core™ i7-4710HQ CPU @ 2.50GHz × 8
 * SO: Ubuntu 17.10 64-bit
